@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">CodelabHumberto</string>
+  <string name="codelab_jc">CodeLab JC</string>
+  <string name="go_to_another_screen">Go To Another Screen</string>
+  <string name="whos_gonna_participate">Quem vai participar?</string>
+  <string name="textview">TextView</string>
+  <string name="name">Nome</string>
+  <string name="age_placeholder">20</string>
+</resources>
